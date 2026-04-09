@@ -10,7 +10,7 @@ html_content = b"""
     <title>Hello World Frontend</title>
 </head>
 <body>
-    <h1>cambio a prueba</h1>
+    <h1>cambio para produccion</h1>
     <p>Este es un ejemplo sencillo de frontend en Python.</p>
 </body>
 </html>
